@@ -10,6 +10,8 @@ This is a tracker for the paper [Focal Loss for Dense Object Detection](https://
 - [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection](https://arxiv.org/abs/1706.09579)
 
 # Implementations :
+## Caffe2 :
+- [Detectron Facebook](https://github.com/facebookresearch/Detectron)
 ## Keras :
 - [Keras RetinaNet](https://github.com/fizyr/keras-retinanet)
 - [An implementation of RetinaNet in Keras](https://github.com/Hodapp87/retinanet)
