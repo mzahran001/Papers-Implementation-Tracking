@@ -16,6 +16,7 @@ This is a tracker for the paper [Unsupervised Representation Learning with Deep 
 - [DCGAN in Tensorflow on celebA and mnist](https://github.com/carpedm20/DCGAN-tensorflow) 
 - [A Tensorflow Implementation of "DCGAN"- (EASY to READ)](https://github.com/tensorlayer/dcgan)
 - [(DCGAN) implemented in TensorFlow-Slim](https://github.com/mqtlam/dcgan-tfslim)
+- [Tensorpack DCGAN](https://github.com/tensorpack/benchmarks/tree/master/DCGAN)
 ## Torch:
 - [DCGAN.torch: Train your own image generator](https://github.com/soumith/dcgan.torch)
 ## Pytorch: 
